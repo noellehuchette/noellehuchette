@@ -6,4 +6,4 @@ I'm a graduate of the Grace Hopper Program at Fullstack Academy as of September 
 - 🌱 I’m currently learning TypeScript, Python
 - 👯 I’m looking to collaborate on open source projects, personal interest projects
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,ts,express,firebase,git,materialui,bootstrap,nodejs,postgres,react,redux,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,ts,express,firebase,git,materialui,bootstrap,nodejs,postgres,react,redux)](https://skillicons.dev)
